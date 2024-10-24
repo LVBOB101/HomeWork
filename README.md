@@ -10,7 +10,7 @@
 
 ### โครงสร้างโปรเจกต์ (Resource Tree):
 ```bash
-├── index.html     
+├── Main.html    
 ├── maekin/           # โฟลเดอร์ของ นาย เมฆินทร์
 │   └── index.html
 └── wuttichai/        # โฟลเดอร์ของ นาย วุฒิชัย
