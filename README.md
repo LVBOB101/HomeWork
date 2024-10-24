@@ -17,7 +17,7 @@
     └── index.html
 ```
 ### วิธีการใช้งาน:
-- เปิดไฟล์ `index.html` เพื่อดูหน้า Landing Page ที่ลิงก์ไปยังงานของนักศึกษาแต่ละคน
+- เปิดไฟล์ Main.html เพื่อดูหน้า Landing Page ซึ่งจะมีลิงก์ไปยังงานของนักศึกษาแต่ละคน
 
 ### การรวม Branch:
 - branch `maekin-branch` รวมเข้ากับ branch `wuttichai-branch`
