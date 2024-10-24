@@ -7,14 +7,15 @@
 ### Branch ที่ใช้:
 - นักศึกษา 1: maekin-branch
 - นักศึกษา 2: wuttichai-branch
-  
+
 ### โครงสร้างโปรเจกต์ (Resource Tree):
+
 ├── index.html     
 ├── maekin/           # โฟลเดอร์ของ นาย เมฆินทร์
 │   └── index.html
 └── wuttichai/        # โฟลเดอร์ของ นาย วุฒิชัย
     └── index.html
-
+    
 ### วิธีการใช้งาน:
 - เปิดไฟล์ `index.html` เพื่อดูหน้า Landing Page ที่ลิงก์ไปยังงานของนักศึกษาแต่ละคน
 
